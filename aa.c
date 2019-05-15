@@ -1,5 +1,15 @@
-void init_engine(void)
-{
-	int a = 8;
-    a++;//Or: please fix this compile error	
+
+#include<stdio.h>
+
+void main() {
+
+	printf("fff");
+	printf("OZ Task Part");
+
+	printf("");
+	printf("");
+
+
+	return 0;
+
 }
